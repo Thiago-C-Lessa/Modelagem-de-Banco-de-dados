@@ -18,5 +18,6 @@ Id de iedentificação de cada tabela, nome, informações pessoais como cpf e d
 ### Como essas entidades estão relacionadas?
 
 <ul>
-<li>Ainstiuição de ensino possui o curso e a unidade(onde o curso é aplicado)
+<li>Ainstiuição de ensino possui o curso e a unidade(onde o curso é aplicado).Ambas relações 1:n</li>
+<li>O diretor rege a instiruição e a unidade. como ele pode reger mais de uma as relações são 1:n</li>
 </ul>
